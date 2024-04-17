@@ -11,8 +11,11 @@ Olá, eu sou a Cláudia Souza 👋
 [![website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.claudiasouza.com.br)
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.claudiasouza.com.br)
 
+
 Ferramentas do meu dia-a-dia 
 
 ![analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
 ![sql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+ ![Snake animation](https://github.com/ClaudiaSouzaM/ClaudiaSouzaM/blob/output/github-contribution-grid-snake.svg)
